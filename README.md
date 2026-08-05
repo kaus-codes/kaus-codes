@@ -200,16 +200,6 @@ Loading challenge...
 
 <div align="center">
 
-## 🤝 Let's Connect
-
-<a href="https://new-kaus-portfolio.vercel.app/">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/kaustubh-negi-b927a5255/">LinkedIn</a> •
-<a href="https://github.com/kaus0311">GitHub</a>
-
-<br><br>
-
-⭐ Thanks for visiting my profile!
-
 </div>
 
 ## 🧠 Daily Programming Trivia
