@@ -164,22 +164,6 @@ Full-stack investment tracking platform.
 
 </div>
 
----
-<!-- QUESTION_START -->
-
-# ☕ Fuel the Coders
-
-> **Coffee fuels developers. Curiosity fuels innovation.**
-
-Every **6 hours**, a new Software Engineering interview question appears.
-
-Answer it before revealing the solution!
-
----
-
-Loading challenge...
-
-<!-- QUESTION_END -->
 
 # 🌱 Currently Exploring
 
@@ -201,6 +185,18 @@ Loading challenge...
 <div align="center">
 
 </div>
+
+# 🎯 Daily Trivia
+
+> **Coffee fuels developers. Curiosity fuels innovation.**
+
+Every **6 hours**, a new Software Engineering interview question appears.
+
+Answer it before revealing the solution!
+
+---
+
+Loading challenge...
 
 ## ☕ Fuel the Coders
 
