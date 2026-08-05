@@ -225,3 +225,28 @@ Choose your answer:
 ---
 *Challenge yourself daily with programming trivia!* 🚀
 </details>
+
+## ☕ Fuel the Coders
+
+**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
+
+Choose your answer:
+
+**A.** Heartbleed
+
+**B.** Shellscript
+
+**C.** Shellshock
+
+**D.** Corrupted Blood
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **A**
+**Heartbleed**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
+
