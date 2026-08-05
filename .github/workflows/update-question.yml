@@ -52,7 +52,10 @@ jobs:
                           options = ['A', 'B', 'C', 'D']
                           
                           # Format the trivia with enhanced styling
-                          trivia_text = f"**❓ {question}**\n\n"
+                          trivia_text = f"Coffee fuels developers. Curiosity fuels innovation\n"
+                          trivia_text += "we will donate few coffee beans to coders per correct answers"
+                          
+                          trivia_text += f"**❓ {question}**\n\n"
                           trivia_text += "Choose your answer:\n\n"
                           
                           for i, answer in enumerate(all_answers):
