@@ -211,3 +211,28 @@ Loading challenge...
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+## 🧠 Daily Programming Trivia
+
+**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
+
+Choose your answer:
+
+**A.** FM Synthesizer
+
+**B.** PCM Sampler
+
+**C.** ADPCM Sampler
+
+**D.** Programmable Sound Generator (PSG)
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **C**
+**ADPCM Sampler**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
+
