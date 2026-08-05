@@ -202,30 +202,6 @@ Loading challenge...
 
 </div>
 
-## 🧠 Daily Programming Trivia
-
-**❓ Which programming language shares its name with an island in Indonesia?**
-
-Choose your answer:
-
-**A.** Jakarta
-
-**B.** C
-
-**C.** Python
-
-**D.** Java
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **D**
-**Java**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
-
 ## ☕ Fuel the Coders
 
 **❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
