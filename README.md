@@ -196,7 +196,14 @@ Answer it before revealing the solution!
 
 ---
 
-Loading challenge...
+🫘 Monthly Coffee Jar
+
+██████████████░░░░░░
+
+352 / 500 Beans
+
+📅 Resets automatically on the 1st of every month.
+
 
 ## ☕ Fuel the Coders
 
