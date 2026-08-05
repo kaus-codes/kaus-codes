@@ -71,11 +71,11 @@ jobs:
               content = file.read()
           
           # Create the daily trivia section
-          trivia_section = f"## 🧠 Daily Programming Trivia\n\n{trivia_text}\n\n"
+          trivia_section = f"## ☕ Fuel the Coders\n\n{trivia_text}\n\n"
           
           # Look for existing daily trivia section and replace it
           # This pattern matches the daily trivia section until the next ## heading or end of file
-          pattern = r"## 🧠 Daily Programming Trivia.*?(?=\n## |\Z)"
+          pattern = r"## ☕ Fuel the Coders.*?(?=\n## |\Z)"
           
           if re.search(pattern, content, re.DOTALL):
               # Replace existing section
