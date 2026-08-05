@@ -2,7 +2,7 @@ name: Update README with daily fact
 on:
   schedule:
     # Runs once a day at midnight UTC
-    - cron: '0 */6 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch: # Allows you to run this workflow manually
 
 jobs:
@@ -52,10 +52,7 @@ jobs:
                           options = ['A', 'B', 'C', 'D']
                           
                           # Format the trivia with enhanced styling
-                          trivia_text = f"Coffee fuels developers. Curiosity fuels innovation\n"
-                          trivia_text += "we will donate few coffee beans to coders per correct answers"
-                          
-                          trivia_text += f"**❓ {question}**\n\n"
+                          trivia_text = f"**❓ {question}**\n\n"
                           trivia_text += "Choose your answer:\n\n"
                           
                           for i, answer in enumerate(all_answers):
@@ -74,11 +71,11 @@ jobs:
               content = file.read()
           
           # Create the daily trivia section
-          trivia_section = f"## ☕ Fuel the Coders challenge\n\n{trivia_text}\n\n"
+          trivia_section = f"## 🧠 Daily Programming Trivia\n\n{trivia_text}\n\n"
           
           # Look for existing daily trivia section and replace it
           # This pattern matches the daily trivia section until the next ## heading or end of file
-          pattern = r"## ☕ Updated Fuel the Coders challenge.*?(?=\n## |\Z)"
+          pattern = r"## 🧠 Daily Programming Trivia.*?(?=\n## |\Z)"
           
           if re.search(pattern, content, re.DOTALL):
               # Replace existing section
@@ -94,4 +91,4 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update interview question"
+          commit_message: "BOT: Update daily coding fact"
