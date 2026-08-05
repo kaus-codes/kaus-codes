@@ -204,25 +204,24 @@ Loading challenge...
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
+**❓ Which programming language shares its name with an island in Indonesia?**
 
 Choose your answer:
 
-**A.** FM Synthesizer
+**A.** Jakarta
 
-**B.** PCM Sampler
+**B.** C
 
-**C.** ADPCM Sampler
+**C.** Python
 
-**D.** Programmable Sound Generator (PSG)
+**D.** Java
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**ADPCM Sampler**
+### ✅ Correct Answer: **D**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
 </details>
-
