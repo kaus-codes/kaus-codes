@@ -1,206 +1,255 @@
-<h1 align="center">Hi 👋, I'm Kaustubh Negi</h1>
-<h3 align="center">Backend Engineer • AI/ML Developer • Computer Science @ Arizona State University</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,25:1E3A8A,50:2563EB,75:3B82F6,100:60A5FA&text=Kaustubh%20Negi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Production-Ready+Software;Backend+Engineering;Artificial+Intelligence;Computer+Vision;Cloud+%26+Distributed+Systems;Always+Learning+Something+New"/>
 
 <p align="center">
-Building scalable backend systems, AI-powered applications, and production-ready software.
+<a href="https://new-kaus-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kaustubh-negi-b927a5255/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kaus0311">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:knegi.work@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-<p align="center">
-<a href="https://yourportfolio.com">Portfolio</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="https://github.com/kaus0311">GitHub</a> •
-<a href="mailto:knegi.work@gmail.com">Email</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=kaus0311&style=for-the-badge&color=0e75b6"/>
+
+</div>
 
 ---
 
-# About Me
+# 👋 About Me
 
-I enjoy building backend systems that solve real-world problems.
+```cpp
+class KaustubhNegi {
 
-My interests include:
+public:
 
-- Backend Engineering
-- Artificial Intelligence
-- Distributed Systems
-- Cloud Infrastructure
-- APIs & Microservices
-- Machine Learning Applications
+    string role = "Software Engineer";
 
-Currently building production-focused software combining scalable backend engineering with AI.
+    vector<string> passions = {
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Cloud Computing",
+        "Distributed Systems",
+        "Computer Vision",
+        "System Design"
+    };
+
+    vector<string> currentlyBuilding = {
+        "Veotrex",
+        "AI Tutor",
+        "Production Backend APIs"
+    };
+
+    string philosophy =
+        "Write clean code, build scalable systems, solve real problems.";
+
+};
+```
+
+💡 I enjoy building software that scales—from backend services and APIs to AI-powered applications that solve real-world problems.
+
+My focus is combining **Software Engineering** with **Artificial Intelligence** to create reliable, production-ready systems.
 
 ---
 
-# Focus Areas
+# 🚀 Featured Projects
 
-| Backend Engineering | Artificial Intelligence |
-|---------------------|--------------------------|
-| REST APIs | Computer Vision |
-| Microservices | RAG Systems |
-| Authentication | LLM Applications |
-| Distributed Systems | AI Integrations |
-| Databases | Edge AI |
+<table>
+<tr>
 
----
+<td width="50%">
 
-# Featured Projects
+## 🦺 Veotrex
 
-## 🛡️ Veotrex
-**AI-powered Industrial Safety Platform**
+AI-powered industrial safety platform.
 
-- PPE Detection
-- Restricted Zone Monitoring
-- Real-time CCTV Analytics
-- RBAC Authentication
-- Audit Logging
-- Edge AI Processing
-- Sub-150ms Inference
+### Highlights
+
+- 👁️ Computer Vision
+- ⚡ Edge AI
+- 🔒 Secure Authentication
+- 📹 CCTV Integration
+- 🚨 Real-time Safety Monitoring
+- 📊 Analytics Dashboard
 
 **Tech**
 
 `Python`
 `FastAPI`
 `React`
-`TypeScript`
 `OpenCV`
 `Docker`
-`Redis`
 `PostgreSQL`
 
----
+</td>
 
-## 🤖 AI Tutor (ASU Capstone)
+<td width="50%">
 
-AI-powered tutoring platform integrated with Canvas LMS.
+## 🤖 AI Tutor
 
-Features
+AI learning platform built for ASU.
 
-- OAuth 2.0 Authentication
+### Features
+
+- Retrieval-Augmented Generation
+- OAuth 2.0
 - Canvas Integration
-- LTI 1.3
-- RAG Pipeline
-- Vector Database
-- Grade Sync
+- Vector Search
 - FERPA Compliance
+- Intelligent AI Responses
 
----
+**Tech**
 
-## 📈 Investment Portfolio Management System
+`Python`
+`FastAPI`
+`PostgreSQL`
+`React`
 
-Full-stack investment tracking platform.
+</td>
 
-Features
+</tr>
 
-- .NET Core API
+<tr>
+
+<td>
+
+## 📈 Investment Portfolio Manager
+
+Financial portfolio management platform.
+
+- REST APIs
+- Authentication
 - SQL Server
-- Entity Framework
-- React
-- Stock Performance Dashboard
-- Data Visualization
+- Portfolio Analytics
+- Performance Tracking
 
----
+**Tech**
 
-# Professional Experience
+`.NET Core`
+`React`
+`SQL Server`
 
-## Backend & Platform Engineer Intern
-**SourceCAD**
+</td>
 
-- Developed responsive web interfaces
-- Integrated REST APIs
-- Improved dashboard performance
-- Worked with frontend and product teams
+<td>
 
----
+## 🌱 Currently Exploring
 
-# Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,java,cpp,js,ts,sql" />
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,postgres,mysql,redis,docker,kubernetes" />
-</p>
-
-## Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,linux,git,github" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-## AI / ML
-
-- Python
-- OpenCV
-- RAG
-- Vector Databases
-- AI/ML Integrations
-- Machine Learning
-- Computer Vision
-
----
-
-# Education
-
-**Arizona State University**
-
-Bachelor of Science in Computer Science
-
-**GPA:** 3.65
-
-Relevant Coursework
-
-- Data Structures & Algorithms
-- Database Systems
+- Large Language Models
+- AI Agents
+- Kubernetes
 - Distributed Systems
-- Cloud Computing
-- Machine Learning
-- Information Security
-- Computer Networks
+- Cloud Architecture
+- Open Source
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# GitHub Stats
+# ⚙️ Tech Stack
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,ts,sql"/>
+</p>
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,dotnet,nodejs,postgres,mysql,redis"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css"/>
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github"/>
+</p>
+
+### AI / Machine Learning
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,opencv"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=kaus0311&show_icons=true&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaus0311&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaus0311&theme=tokyonight)
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus0311&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaus0311&layout=compact&theme=tokyonight)
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=kaus0311&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaus0311&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-# Currently Working On
+# 🏆 GitHub Achievements
 
-- Production Backend Systems
-- AI-powered Applications
-- Distributed Systems
-- Cloud Infrastructure
-- Scalable APIs
-- Machine Learning Solutions
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kaus0311&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=1"/>
+
+</p>
 
 ---
 
-# Let's Connect
+# 💭 Engineering Philosophy
 
-📧 **knegi.work@gmail.com**
+> **"Great software isn't just about writing code—it's about building systems that are scalable, reliable, maintainable, and capable of solving real-world problems."**
 
-💼 LinkedIn
+---
 
-🌐 Portfolio
+# 🤝 Let's Connect
 
-⭐ Always interested in Backend, AI, and Software Engineering opportunities.
+<p align="center">
+
+<a href="https://new-kaus-portfolio.vercel.app/">🌐 Portfolio</a> •
+<a href="https://www.linkedin.com/in/kaustubh-negi-b927a5255/">LinkedIn</a> •
+<a href="https://github.com/kaus0311">GitHub</a>
+
+</p>
+
+<div align="center">
+
+### 🚀 Building software today for the intelligent systems of tomorrow.
+
+⭐ Thanks for visiting my profile!
+
+</div>
