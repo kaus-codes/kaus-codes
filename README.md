@@ -198,19 +198,6 @@ Financial portfolio management platform.
 
 # 📊 GitHub Analytics
 
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaus0311&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaus0311&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=kaus0311&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 <p align="center">
 
@@ -220,15 +207,6 @@ Financial portfolio management platform.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kaus0311&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=1"/>
-
-</p>
-
----
 
 # 💭 Engineering Philosophy
 
