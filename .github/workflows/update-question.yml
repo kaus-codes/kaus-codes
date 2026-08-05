@@ -1,31 +1,94 @@
-name: Update Fuel the Coders
-
+name: Update README with daily fact
 on:
   schedule:
-    - cron: "0 */6 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    # Runs once a day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run this workflow manually
 
 jobs:
-  update:
+  update-readme:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
+      
     steps:
-      - name: Checkout
+      - name: Check out repo
         uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Run Script
-        run: python update_question.py
-
-      - name: Commit Changes
+        
+      - name: Update README with a fact
+        run: |
+          python - <<EOF
+          import re
+          import json
+          from urllib import request
+          
+          readme_path = "README.md"
+          
+          # Open Trivia Database - Computer Science category (multiple choice)
+          url = "https://opentdb.com/api.php?amount=1&category=18&type=multiple"
+          
+          trivia_text = "Could not fetch a programming trivia right now. Please try again later."
+          
+          try:
+              with request.urlopen(url) as response:
+                  if response.status == 200:
+                      data = json.loads(response.read().decode())
+                      if data.get("results") and len(data["results"]) > 0:
+                          result = data["results"][0]
+                          
+                          # Decode HTML entities if present
+                          import html
+                          question = html.unescape(result["question"])
+                          correct_answer = html.unescape(result["correct_answer"])
+                          incorrect_answers = [html.unescape(ans) for ans in result["incorrect_answers"]]
+                          
+                          # Combine and shuffle answers
+                          all_answers = incorrect_answers + [correct_answer]
+                          import random
+                          random.shuffle(all_answers)
+                          
+                          # Find the position of correct answer after shuffling
+                          correct_position = all_answers.index(correct_answer)
+                          options = ['A', 'B', 'C', 'D']
+                          
+                          # Format the trivia with enhanced styling
+                          trivia_text = f"**❓ {question}**\n\n"
+                          trivia_text += "Choose your answer:\n\n"
+                          
+                          for i, answer in enumerate(all_answers):
+                              trivia_text += f"**{options[i]}.** {answer}\n\n"
+                          
+                          trivia_text += f"<details>\n<summary>🎯 Click to reveal the correct answer!</summary>\n\n"
+                          trivia_text += f"### ✅ Correct Answer: **{options[correct_position]}**\n"
+                          trivia_text += f"**{correct_answer}**\n\n"
+                          trivia_text += "---\n*Challenge yourself daily with programming trivia!* 🚀\n"
+                          trivia_text += "</details>"
+                          
+          except Exception as e:
+              print(f"Failed to fetch trivia: {e}")
+          
+          with open(readme_path, "r", encoding="utf-8") as file:
+              content = file.read()
+          
+          # Create the daily trivia section
+          trivia_section = f"## 🧠 Daily Programming Trivia\n\n{trivia_text}\n\n"
+          
+          # Look for existing daily trivia section and replace it
+          # This pattern matches the daily trivia section until the next ## heading or end of file
+          pattern = r"## 🧠 Daily Programming Trivia.*?(?=\n## |\Z)"
+          
+          if re.search(pattern, content, re.DOTALL):
+              # Replace existing section
+              new_content = re.sub(pattern, trivia_section.rstrip(), content, flags=re.DOTALL)
+          else:
+              # Add new section at the end if it doesn't exist
+              new_content = content.rstrip() + "\n\n" + trivia_section
+          
+          with open(readme_path, "w", encoding="utf-8") as file:
+              file.write(new_content)
+          EOF
+          
+      - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "☕ Update interview question"
+          commit_message: "BOT: Update daily coding fact"
