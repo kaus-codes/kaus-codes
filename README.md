@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kaustubh-negi-b927a5255/">
+<a href="https://www.linkedin.com/in/kaus-dev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
