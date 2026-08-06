@@ -205,25 +205,24 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** Heartbleed
+**A.** Command Line Interface
 
-**B.** Shellscript
+**B.** Control Line Interface
 
-**C.** Shellshock
+**C.** Common Language Interface
 
-**D.** Corrupted Blood
+**D.** Common Language Input
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Heartbleed**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
 </details>
-
