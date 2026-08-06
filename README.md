@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/kaus0311">
+<a href="https://github.com/kaus-codes">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -150,7 +150,7 @@ Full-stack investment tracking platform.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kaus0311&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kaus-codes&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -158,7 +158,7 @@ Full-stack investment tracking platform.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaus0311&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kaus-codes&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
