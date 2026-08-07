@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In computing terms, typically what does CLI stand for?**
+**❓ The teapot often seen in many 3D modeling applications is called what?**
 
 Choose your answer:
 
-**A.** Command Line Interface
+**A.** Utah Teapot
 
-**B.** Control Line Interface
+**B.** Pixar Teapot
 
-**C.** Common Language Interface
+**C.** Tennessee Teapot
 
-**D.** Common Language Input
+**D.** 3D Teapot
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Command Line Interface**
+**Utah Teapot**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
