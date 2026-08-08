@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The teapot often seen in many 3D modeling applications is called what?**
+**❓ On Twitter, what was the original character limit for a Tweet?**
 
 Choose your answer:
 
-**A.** Utah Teapot
+**A.** 160
 
-**B.** Pixar Teapot
+**B.** 120
 
-**C.** Tennessee Teapot
+**C.** 140
 
-**D.** 3D Teapot
+**D.** 100
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Utah Teapot**
+### ✅ Correct Answer: **C**
+**140**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
