@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ On Twitter, what was the original character limit for a Tweet?**
+**❓ In CSS, which of these values CANNOT be used with the "position" property?**
 
 Choose your answer:
 
-**A.** 160
+**A.** absolute
 
-**B.** 120
+**B.** static
 
-**C.** 140
+**C.** relative
 
-**D.** 100
+**D.** center
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**140**
+### ✅ Correct Answer: **D**
+**center**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
