@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In CSS, which of these values CANNOT be used with the "position" property?**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** absolute
+**A.** Windows
 
-**B.** static
+**B.** Linux
 
-**C.** relative
+**C.** OS/2
 
-**D.** center
+**D.** Mac OS
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**center**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
