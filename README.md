@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** Quantum Teleportation
+**A.** eBay
 
-**B.** Super Dense Coding
+**B.** Amazon
 
-**C.** Quantum Entanglement
+**C.** Overstock
 
-**D.** Quantum Programming
+**D.** Shopify
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Quantum Teleportation**
+### ✅ Correct Answer: **B**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
