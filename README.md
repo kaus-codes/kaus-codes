@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ Which of these names was an actual codename for a cancelled Microsoft project?**
 
 Choose your answer:
 
-**A.** eBay
+**A.** Enceladus
 
-**B.** Amazon
+**B.** Neptune
 
-**C.** Overstock
+**C.** Saturn
 
-**D.** Shopify
+**D.** Pollux
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Amazon**
+**Neptune**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
