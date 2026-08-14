@@ -205,24 +205,4 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these names was an actual codename for a cancelled Microsoft project?**
-
-Choose your answer:
-
-**A.** Enceladus
-
-**B.** Neptune
-
-**C.** Saturn
-
-**D.** Pollux
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **B**
-**Neptune**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
+Could not fetch a programming trivia right now. Please try again later.
