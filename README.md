@@ -205,4 +205,24 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-Could not fetch a programming trivia right now. Please try again later.
+**❓ Which programming language shares its name with an island in Indonesia?**
+
+Choose your answer:
+
+**A.** Python
+
+**B.** Jakarta
+
+**C.** C
+
+**D.** Java
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **D**
+**Java**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
