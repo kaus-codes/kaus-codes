@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which programming language shares its name with an island in Indonesia?**
+**❓ What does the term MIME stand for, in regards to computing?**
 
 Choose your answer:
 
-**A.** Python
+**A.** Mail Interleave Method Exchange
 
-**B.** Jakarta
+**B.** Multipurpose Internet Mail Extensions
 
-**C.** C
+**C.** Multipurpose Interleave Mail Exchange
 
-**D.** Java
+**D.** Mail Internet Mail Exchange
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Java**
+### ✅ Correct Answer: **B**
+**Multipurpose Internet Mail Extensions**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
