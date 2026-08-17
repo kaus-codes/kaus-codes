@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the term MIME stand for, in regards to computing?**
+**❓ What was the first company to use the term "Golden Master"?**
 
 Choose your answer:
 
-**A.** Mail Interleave Method Exchange
+**A.** IBM
 
-**B.** Multipurpose Internet Mail Extensions
+**B.** Apple
 
-**C.** Multipurpose Interleave Mail Exchange
+**C.** Google
 
-**D.** Mail Internet Mail Exchange
+**D.** Microsoft
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Multipurpose Internet Mail Extensions**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
