@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What was the first company to use the term "Golden Master"?**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** IBM
+**A.** Automated Database
 
-**B.** Apple
+**B.** Alternative Drive
 
-**C.** Google
+**C.** Active Directory
 
-**D.** Microsoft
+**D.** Active Department
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Apple**
+### ✅ Correct Answer: **C**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
