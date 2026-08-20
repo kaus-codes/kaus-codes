@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** Apple
+**A.** Automated Database
 
-**B.** Atari
+**B.** Alternative Drive
 
-**C.** Microsoft
+**C.** Active Department
 
-**D.** Commodore
+**D.** Active Directory
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Apple**
+### ✅ Correct Answer: **D**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
