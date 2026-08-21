@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ What does the term MIME stand for, in regards to computing?**
 
 Choose your answer:
 
-**A.** Automated Database
+**A.** Multipurpose Interleave Mail Exchange
 
-**B.** Alternative Drive
+**B.** Mail Interleave Method Exchange
 
-**C.** Active Department
+**C.** Mail Internet Mail Exchange
 
-**D.** Active Directory
+**D.** Multipurpose Internet Mail Extensions
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Active Directory**
+**Multipurpose Internet Mail Extensions**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
