@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the term MIME stand for, in regards to computing?**
+**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
 
 Choose your answer:
 
-**A.** Multipurpose Interleave Mail Exchange
+**A.** Blue
 
-**B.** Mail Interleave Method Exchange
+**B.** Red
 
-**C.** Mail Internet Mail Exchange
+**C.** Yellow
 
-**D.** Multipurpose Internet Mail Extensions
+**D.** Green
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Multipurpose Internet Mail Extensions**
+**Green**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
