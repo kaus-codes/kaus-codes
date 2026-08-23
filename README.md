@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
+**❓ In computing, what does MIDI stand for?**
 
 Choose your answer:
 
-**A.** Blue
+**A.** Musical Instrument Digital Interface
 
-**B.** Red
+**B.** Modular Interface of Digital Instruments
 
-**C.** Yellow
+**C.** Musical Instrument Data Interface
 
-**D.** Green
+**D.** Musical Interface of Digital Instruments
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Green**
+### ✅ Correct Answer: **A**
+**Musical Instrument Digital Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
