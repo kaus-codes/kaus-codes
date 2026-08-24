@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In computing, what does MIDI stand for?**
+**❓ What kind of memory is used on memory cache?**
 
 Choose your answer:
 
-**A.** Musical Instrument Digital Interface
+**A.** SRAM
 
-**B.** Modular Interface of Digital Instruments
+**B.** ROM
 
-**C.** Musical Instrument Data Interface
+**C.** DRAM
 
-**D.** Musical Interface of Digital Instruments
+**D.** Flash
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Musical Instrument Digital Interface**
+**SRAM**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
