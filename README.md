@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What kind of memory is used on memory cache?**
+**❓ In any programming language, what is the most common way to iterate through an array?**
 
 Choose your answer:
 
-**A.** SRAM
+**A.** 'Do-while' loops
 
-**B.** ROM
+**B.** 'For' loops
 
-**C.** DRAM
+**C.** 'If' Statements
 
-**D.** Flash
+**D.** 'While' loops
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**SRAM**
+### ✅ Correct Answer: **B**
+**'For' loops**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
