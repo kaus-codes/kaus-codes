@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In any programming language, what is the most common way to iterate through an array?**
+**❓ How many values can a single byte represent?**
 
 Choose your answer:
 
-**A.** 'Do-while' loops
+**A.** 8
 
-**B.** 'For' loops
+**B.** 1
 
-**C.** 'If' Statements
+**C.** 1024
 
-**D.** 'While' loops
+**D.** 256
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**'For' loops**
+### ✅ Correct Answer: **D**
+**256**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
