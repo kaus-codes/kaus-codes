@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ How many values can a single byte represent?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** 8
+**A.** Range of Applications with Identical Designs
 
-**B.** 1
+**B.** Rapid Access for Indexed Devices
 
-**C.** 1024
+**C.** Randomized Abstract Identification Description
 
-**D.** 256
+**D.** Redundant Array of Independent Disks
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**256**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
