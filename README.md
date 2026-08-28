@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does RAID stand for?**
+**❓ On Twitter, what was the original character limit for a Tweet?**
 
 Choose your answer:
 
-**A.** Range of Applications with Identical Designs
+**A.** 100
 
-**B.** Rapid Access for Indexed Devices
+**B.** 120
 
-**C.** Randomized Abstract Identification Description
+**C.** 160
 
-**D.** Redundant Array of Independent Disks
+**D.** 140
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Redundant Array of Independent Disks**
+**140**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
