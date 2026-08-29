@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ On Twitter, what was the original character limit for a Tweet?**
+**❓ How many cores does the Intel i7-6950X have?**
 
 Choose your answer:
 
-**A.** 100
+**A.** 10
 
-**B.** 120
+**B.** 8
 
-**C.** 160
+**C.** 12
 
-**D.** 140
+**D.** 4
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**140**
+### ✅ Correct Answer: **A**
+**10**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
