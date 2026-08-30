@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ How many cores does the Intel i7-6950X have?**
+**❓ When was the programming language "C#" released?**
 
 Choose your answer:
 
-**A.** 10
+**A.** 2001
 
-**B.** 8
+**B.** 2000
 
-**C.** 12
+**C.** 1998
 
-**D.** 4
+**D.** 1999
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**10**
+### ✅ Correct Answer: **B**
+**2000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
