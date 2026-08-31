@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ When was the programming language "C#" released?**
+**❓ Which RAID array type is associated with data mirroring?**
 
 Choose your answer:
 
-**A.** 2001
+**A.** RAID 10
 
-**B.** 2000
+**B.** RAID 5
 
-**C.** 1998
+**C.** RAID 0
 
-**D.** 1999
+**D.** RAID 1
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**2000**
+### ✅ Correct Answer: **D**
+**RAID 1**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
