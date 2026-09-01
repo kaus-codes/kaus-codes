@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which RAID array type is associated with data mirroring?**
+**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
 
 Choose your answer:
 
-**A.** RAID 10
+**A.** Asterisk
 
-**B.** RAID 5
+**B.** Percent Sign
 
-**C.** RAID 0
+**C.** Exclamation Mark
 
-**D.** RAID 1
+**D.** Dollar Sign
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**RAID 1**
+### ✅ Correct Answer: **C**
+**Exclamation Mark**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
