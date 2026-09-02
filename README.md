@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
+**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
 
 Choose your answer:
 
-**A.** Asterisk
+**A.** Amstrad PLC
 
-**B.** Percent Sign
+**B.** Sinclair Research
 
-**C.** Exclamation Mark
+**C.** Commodore Business Machines
 
-**D.** Dollar Sign
+**D.** Acorn Computers
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Exclamation Mark**
+### ✅ Correct Answer: **D**
+**Acorn Computers**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
