@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
+**❓ What vulnerability ranked #1 on the OWASP Top 10 in 2013?**
 
 Choose your answer:
 
-**A.** Amstrad PLC
+**A.** Injection 
 
-**B.** Sinclair Research
+**B.** Broken Authentication
 
-**C.** Commodore Business Machines
+**C.** Cross-Site Scripting
 
-**D.** Acorn Computers
+**D.** Insecure Direct Object References
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Acorn Computers**
+### ✅ Correct Answer: **A**
+**Injection **
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
