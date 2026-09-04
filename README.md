@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What vulnerability ranked #1 on the OWASP Top 10 in 2013?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Injection 
+**A.** Region 3
 
-**B.** Broken Authentication
+**B.** Region 2
 
-**C.** Cross-Site Scripting
+**C.** Region 1
 
-**D.** Insecure Direct Object References
+**D.** Region 4
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Injection **
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
