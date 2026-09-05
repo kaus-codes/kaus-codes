@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ Which of these is not a layer in the OSI model for data communications?**
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Application Layer
 
-**B.** Region 2
+**B.** Physical Layer
 
-**C.** Region 1
+**C.** Connection Layer
 
-**D.** Region 4
+**D.** Transport Layer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Region 3**
+### ✅ Correct Answer: **C**
+**Connection Layer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
