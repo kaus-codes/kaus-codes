@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these is not a layer in the OSI model for data communications?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** Application Layer
+**A.** Washington
 
-**B.** Physical Layer
+**B.** Colorado
 
-**C.** Connection Layer
+**C.** Arizona
 
-**D.** Transport Layer
+**D.** New Mexico
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Connection Layer**
+### ✅ Correct Answer: **D**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
