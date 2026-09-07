@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ Nvidia's headquarters are based in which Silicon Valley city?**
 
 Choose your answer:
 
-**A.** Washington
+**A.** Palo Alto
 
-**B.** Colorado
+**B.** Mountain View
 
-**C.** Arizona
+**C.** Cupertino
 
-**D.** New Mexico
+**D.** Santa Clara
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**New Mexico**
+**Santa Clara**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
