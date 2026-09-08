@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Nvidia's headquarters are based in which Silicon Valley city?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Palo Alto
+**A.** Region 3
 
-**B.** Mountain View
+**B.** Region 1
 
-**C.** Cupertino
+**C.** Region 4
 
-**D.** Santa Clara
+**D.** Region 2
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Santa Clara**
+### ✅ Correct Answer: **A**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
