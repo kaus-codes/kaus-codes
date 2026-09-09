@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ What was the first company to use the term "Golden Master"?**
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Microsoft
 
-**B.** Region 1
+**B.** Google
 
-**C.** Region 4
+**C.** Apple
 
-**D.** Region 2
+**D.** IBM
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Region 3**
+### ✅ Correct Answer: **C**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
