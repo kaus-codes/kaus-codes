@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What was the first company to use the term "Golden Master"?**
+**❓ Which of these is not a key value of Agile software development?**
 
 Choose your answer:
 
-**A.** Microsoft
+**A.** Customer collaboration
 
-**B.** Google
+**B.** Comprehensive documentation
 
-**C.** Apple
+**C.** Individuals and interactions
 
-**D.** IBM
+**D.** Responding to change
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Apple**
+### ✅ Correct Answer: **B**
+**Comprehensive documentation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
