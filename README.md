@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these is not a key value of Agile software development?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** Customer collaboration
+**A.** JavaScript
 
-**B.** Comprehensive documentation
+**B.** Python
 
-**C.** Individuals and interactions
+**C.** C++
 
-**D.** Responding to change
+**D.** Binary
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Comprehensive documentation**
+### ✅ Correct Answer: **D**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
