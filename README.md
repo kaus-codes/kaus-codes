@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** JavaScript
+**A.** Shopify
 
-**B.** Python
+**B.** Amazon
 
-**C.** C++
+**C.** Overstock
 
-**D.** Binary
+**D.** eBay
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Binary**
+### ✅ Correct Answer: **B**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
