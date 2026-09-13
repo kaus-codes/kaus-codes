@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ Nvidia's headquarters are based in which Silicon Valley city?**
 
 Choose your answer:
 
-**A.** Shopify
+**A.** Mountain View
 
-**B.** Amazon
+**B.** Cupertino
 
-**C.** Overstock
+**C.** Palo Alto
 
-**D.** eBay
+**D.** Santa Clara
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Amazon**
+### ✅ Correct Answer: **D**
+**Santa Clara**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
