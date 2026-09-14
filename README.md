@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Nvidia's headquarters are based in which Silicon Valley city?**
+**❓ Which of the following is a personal computer made by the Japanese company Fujitsu?**
 
 Choose your answer:
 
-**A.** Mountain View
+**A.** MSX
 
-**B.** Cupertino
+**B.** Xmillennium 
 
-**C.** Palo Alto
+**C.** PC-9801
 
-**D.** Santa Clara
+**D.** FM-7
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Santa Clara**
+**FM-7**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
