@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of the following is a personal computer made by the Japanese company Fujitsu?**
+**❓ Which coding language was the #1 programming language in terms of usage on GitHub in 2015?**
 
 Choose your answer:
 
-**A.** MSX
+**A.** C#
 
-**B.** Xmillennium 
+**B.** Python
 
-**C.** PC-9801
+**C.** JavaScript
 
-**D.** FM-7
+**D.** PHP
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**FM-7**
+### ✅ Correct Answer: **C**
+**JavaScript**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
