@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which coding language was the #1 programming language in terms of usage on GitHub in 2015?**
+**❓ In computing, what does LAN stand for?**
 
 Choose your answer:
 
-**A.** C#
+**A.** Long Antenna Node
 
-**B.** Python
+**B.** Land Address Navigation
 
-**C.** JavaScript
+**C.** Local Area Network
 
-**D.** PHP
+**D.** Light Access Node
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**JavaScript**
+**Local Area Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
