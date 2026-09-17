@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In computing, what does LAN stand for?**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** Long Antenna Node
+**A.** Mac OS
 
-**B.** Land Address Navigation
+**B.** Windows
 
-**C.** Local Area Network
+**C.** OS/2
 
-**D.** Light Access Node
+**D.** Linux
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Local Area Network**
+### ✅ Correct Answer: **A**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
