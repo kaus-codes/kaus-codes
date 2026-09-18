@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which operating system was released first?**
+**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
 
 Choose your answer:
 
-**A.** Mac OS
+**A.** Commodore
 
-**B.** Windows
+**B.** Microsoft
 
-**C.** OS/2
+**C.** Atari
 
-**D.** Linux
+**D.** Apple
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Mac OS**
+### ✅ Correct Answer: **D**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
