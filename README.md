@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
+**❓ How many bytes are in a single Kibibyte?**
 
 Choose your answer:
 
-**A.** Commodore
+**A.** 1024
 
-**B.** Microsoft
+**B.** 1000
 
-**C.** Atari
+**C.** 1240
 
-**D.** Apple
+**D.** 2400
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Apple**
+### ✅ Correct Answer: **A**
+**1024**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
