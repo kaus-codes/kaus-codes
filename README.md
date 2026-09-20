@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ How many bytes are in a single Kibibyte?**
+**❓ What programming language was GitHub written in?**
 
 Choose your answer:
 
-**A.** 1024
+**A.** Lua
 
-**B.** 1000
+**B.** JavaScript
 
-**C.** 1240
+**C.** Ruby
 
-**D.** 2400
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**1024**
+### ✅ Correct Answer: **C**
+**Ruby**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
