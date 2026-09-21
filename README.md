@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What programming language was GitHub written in?**
+**❓ Which computer language would you associate Django framework with?**
 
 Choose your answer:
 
-**A.** Lua
+**A.** C++
 
-**B.** JavaScript
+**B.** Java
 
-**C.** Ruby
+**C.** Python
 
-**D.** Python
+**D.** C#
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Ruby**
+**Python**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
