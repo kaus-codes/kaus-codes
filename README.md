@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which computer language would you associate Django framework with?**
+**❓ Which SQL keyword is used to fetch data from a database?**
 
 Choose your answer:
 
-**A.** C++
+**A.** SELECT
 
-**B.** Java
+**B.** EXEC
 
-**C.** Python
+**C.** INDEX
 
-**D.** C#
+**D.** VALUES
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Python**
+### ✅ Correct Answer: **A**
+**SELECT**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
