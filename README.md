@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which SQL keyword is used to fetch data from a database?**
+**❓ What amount of bits commonly equals one byte?**
 
 Choose your answer:
 
-**A.** SELECT
+**A.** 2
 
-**B.** EXEC
+**B.** 1
 
-**C.** INDEX
+**C.** 64
 
-**D.** VALUES
+**D.** 8
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**SELECT**
+### ✅ Correct Answer: **D**
+**8**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
