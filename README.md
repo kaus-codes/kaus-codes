@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What amount of bits commonly equals one byte?**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** 2
+**A.** Active Directory
 
-**B.** 1
+**B.** Automated Database
 
-**C.** 64
+**C.** Active Department
 
-**D.** 8
+**D.** Alternative Drive
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**8**
+### ✅ Correct Answer: **A**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
