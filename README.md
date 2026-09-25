@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
 
 Choose your answer:
 
-**A.** Active Directory
+**A.** Computer-made operating system
 
-**B.** Automated Database
+**B.** Complementary magnetic-ohms-semiconductor
 
-**C.** Active Department
+**C.** Complementary metal–oxide–semiconductor
 
-**D.** Alternative Drive
+**D.** Computer-made oscillating static
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Active Directory**
+### ✅ Correct Answer: **C**
+**Complementary metal–oxide–semiconductor**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
