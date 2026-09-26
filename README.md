@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** Computer-made operating system
+**A.** Scripting Language
 
-**B.** Complementary magnetic-ohms-semiconductor
+**B.** Macro Language
 
-**C.** Complementary metal–oxide–semiconductor
+**C.** Markup Language
 
-**D.** Computer-made oscillating static
+**D.** Programming Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Complementary metal–oxide–semiconductor**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
