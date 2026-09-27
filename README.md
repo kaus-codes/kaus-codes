@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ HTML is what type of language?**
+**❓ Which programming language was developed by Sun Microsystems in 1995?**
 
 Choose your answer:
 
-**A.** Scripting Language
+**A.** Python
 
-**B.** Macro Language
+**B.** Solaris OS
 
-**C.** Markup Language
+**C.** Java
 
-**D.** Programming Language
+**D.** C++
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Markup Language**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
