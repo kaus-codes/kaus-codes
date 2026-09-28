@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which programming language was developed by Sun Microsystems in 1995?**
+**❓ What major programming language does Unreal Engine 4 use?**
 
 Choose your answer:
 
-**A.** Python
+**A.** C#
 
-**B.** Solaris OS
+**B.** ECMAScript
 
-**C.** Java
+**C.** C++
 
-**D.** C++
+**D.** Assembly
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Java**
+**C++**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
