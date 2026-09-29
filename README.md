@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What major programming language does Unreal Engine 4 use?**
+**❓ The acronym "RIP" stands for which of these?**
 
 Choose your answer:
 
-**A.** C#
+**A.** Runtime Instance Processes
 
-**B.** ECMAScript
+**B.** Routing Information Protocol
 
-**C.** C++
+**C.** Regular Interval Processes
 
-**D.** Assembly
+**D.** Routine Inspection Protocol
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**C++**
+### ✅ Correct Answer: **B**
+**Routing Information Protocol**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
