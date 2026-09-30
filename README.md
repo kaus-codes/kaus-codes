@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The acronym "RIP" stands for which of these?**
+**❓ The programming language 'Swift' was created to replace what other programming language?**
 
 Choose your answer:
 
-**A.** Runtime Instance Processes
+**A.** C++
 
-**B.** Routing Information Protocol
+**B.** C#
 
-**C.** Regular Interval Processes
+**C.** Objective-C
 
-**D.** Routine Inspection Protocol
+**D.** Ruby
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Routing Information Protocol**
+### ✅ Correct Answer: **C**
+**Objective-C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
