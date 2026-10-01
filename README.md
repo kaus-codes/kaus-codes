@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Public
 
-**B.** C#
+**B.** Static
 
-**C.** Objective-C
+**C.** Final
 
-**D.** Ruby
+**D.** Private
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Objective-C**
+**Final**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
