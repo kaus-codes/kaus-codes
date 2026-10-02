@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** Public
+**A.** Order State Part First
 
-**B.** Static
+**B.** Order Sense Ping Find
 
-**C.** Final
+**C.** Open Signal Path Finder
 
-**D.** Private
+**D.** Open Shortest Path First
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Final**
+### ✅ Correct Answer: **D**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
