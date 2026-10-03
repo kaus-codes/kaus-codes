@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In networking, what does OSPF stand for?**
+**❓ What does the DOS in Microsoft's first operating system "MS-DOS" stand for?**
 
 Choose your answer:
 
-**A.** Order State Part First
+**A.** Dumb Operating System
 
-**B.** Order Sense Ping Find
+**B.** Diskless Operating System
 
-**C.** Open Signal Path Finder
+**C.** Driver Oriented System
 
-**D.** Open Shortest Path First
+**D.** Disk Operating System
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Open Shortest Path First**
+**Disk Operating System**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
