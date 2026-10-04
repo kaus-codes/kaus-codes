@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the DOS in Microsoft's first operating system "MS-DOS" stand for?**
+**❓ What does SSD stand for?**
 
 Choose your answer:
 
-**A.** Dumb Operating System
+**A.** Solution Source Disk
 
-**B.** Diskless Operating System
+**B.** Solid State Drive
 
-**C.** Driver Oriented System
+**C.** Source Solution Drive
 
-**D.** Disk Operating System
+**D.** Solid State Disk
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Disk Operating System**
+### ✅ Correct Answer: **B**
+**Solid State Drive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
