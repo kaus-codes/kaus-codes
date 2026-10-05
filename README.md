@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does SSD stand for?**
+**❓ What programming language was GitHub written in?**
 
 Choose your answer:
 
-**A.** Solution Source Disk
+**A.** Ruby
 
-**B.** Solid State Drive
+**B.** Python
 
-**C.** Source Solution Drive
+**C.** JavaScript
 
-**D.** Solid State Disk
+**D.** Lua
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Solid State Drive**
+### ✅ Correct Answer: **A**
+**Ruby**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
