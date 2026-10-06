@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What programming language was GitHub written in?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** Ruby
+**A.** Colorado
 
-**B.** Python
+**B.** Arizona
 
-**C.** JavaScript
+**C.** Washington
 
-**D.** Lua
+**D.** New Mexico
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Ruby**
+### ✅ Correct Answer: **D**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
