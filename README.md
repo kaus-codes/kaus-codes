@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ Which of these people was NOT a founder of Apple Inc?**
 
 Choose your answer:
 
-**A.** Colorado
+**A.** Ronald Wayne
 
-**B.** Arizona
+**B.** Steve Wozniak
 
-**C.** Washington
+**C.** Jonathan Ive
 
-**D.** New Mexico
+**D.** Steve Jobs
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**New Mexico**
+### ✅ Correct Answer: **C**
+**Jonathan Ive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
