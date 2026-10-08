@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these people was NOT a founder of Apple Inc?**
+**❓ Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?**
 
 Choose your answer:
 
-**A.** Ronald Wayne
+**A.** 44.1 kHz
 
-**B.** Steve Wozniak
+**B.** 20.5 kHz
 
-**C.** Jonathan Ive
+**C.** 1.5 MHz
 
-**D.** Steve Jobs
+**D.** 32.0 kHz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Jonathan Ive**
+### ✅ Correct Answer: **A**
+**44.1 kHz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
