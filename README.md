@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?**
+**❓ Laserjet and inkjet printers are both examples of what type of printer?**
 
 Choose your answer:
 
-**A.** 44.1 kHz
+**A.** Daisywheel printer
 
-**B.** 20.5 kHz
+**B.** Non-impact printer
 
-**C.** 1.5 MHz
+**C.** Dot matrix printer
 
-**D.** 32.0 kHz
+**D.** Impact printer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**44.1 kHz**
+### ✅ Correct Answer: **B**
+**Non-impact printer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
