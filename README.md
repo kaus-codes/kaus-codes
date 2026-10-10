@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Laserjet and inkjet printers are both examples of what type of printer?**
+**❓ Which of these is not a key value of Agile software development?**
 
 Choose your answer:
 
-**A.** Daisywheel printer
+**A.** Responding to change
 
-**B.** Non-impact printer
+**B.** Customer collaboration
 
-**C.** Dot matrix printer
+**C.** Comprehensive documentation
 
-**D.** Impact printer
+**D.** Individuals and interactions
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Non-impact printer**
+### ✅ Correct Answer: **C**
+**Comprehensive documentation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
