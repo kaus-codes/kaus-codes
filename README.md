@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these is not a key value of Agile software development?**
+**❓ What was the name of the security vulnerability found in Bash in 2014?**
 
 Choose your answer:
 
-**A.** Responding to change
+**A.** Stagefright
 
-**B.** Customer collaboration
+**B.** Bashbug
 
-**C.** Comprehensive documentation
+**C.** Heartbleed
 
-**D.** Individuals and interactions
+**D.** Shellshock
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Comprehensive documentation**
+### ✅ Correct Answer: **D**
+**Shellshock**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
