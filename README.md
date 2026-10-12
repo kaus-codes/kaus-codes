@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What was the name of the security vulnerability found in Bash in 2014?**
+**❓ What does the computer software acronym JVM stand for?**
 
 Choose your answer:
 
-**A.** Stagefright
+**A.** Java Vendor Machine
 
-**B.** Bashbug
+**B.** Just Virtual Machine
 
-**C.** Heartbleed
+**C.** Java Visual Machine
 
-**D.** Shellshock
+**D.** Java Virtual Machine
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Shellshock**
+**Java Virtual Machine**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
