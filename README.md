@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the computer software acronym JVM stand for?**
+**❓ The programming language 'Swift' was created to replace what other programming language?**
 
 Choose your answer:
 
-**A.** Java Vendor Machine
+**A.** C++
 
-**B.** Just Virtual Machine
+**B.** C#
 
-**C.** Java Visual Machine
+**C.** Objective-C
 
-**D.** Java Virtual Machine
+**D.** Ruby
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Java Virtual Machine**
+### ✅ Correct Answer: **C**
+**Objective-C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
