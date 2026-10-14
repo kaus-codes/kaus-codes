@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Enigma Machine
 
-**B.** C#
+**B.** Nautilus
 
-**C.** Objective-C
+**C.** Skipjack
 
-**D.** Ruby
+**D.** Clipper Chip
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Objective-C**
+### ✅ Correct Answer: **D**
+**Clipper Chip**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
