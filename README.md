@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?**
+**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
 
 Choose your answer:
 
-**A.** Enigma Machine
+**A.** Green
 
-**B.** Nautilus
+**B.** Blue
 
-**C.** Skipjack
+**C.** Red
 
-**D.** Clipper Chip
+**D.** Yellow
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Clipper Chip**
+### ✅ Correct Answer: **A**
+**Green**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
