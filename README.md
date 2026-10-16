@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** Green
+**A.** Common Language Interface
 
-**B.** Blue
+**B.** Common Language Input
 
-**C.** Red
+**C.** Control Line Interface
 
-**D.** Yellow
+**D.** Command Line Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Green**
+### ✅ Correct Answer: **D**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
