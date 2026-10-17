@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In computing terms, typically what does CLI stand for?**
+**❓ Which programming language was developed by Sun Microsystems in 1995?**
 
 Choose your answer:
 
-**A.** Common Language Interface
+**A.** Java
 
-**B.** Common Language Input
+**B.** C++
 
-**C.** Control Line Interface
+**C.** Solaris OS
 
-**D.** Command Line Interface
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Command Line Interface**
+### ✅ Correct Answer: **A**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
