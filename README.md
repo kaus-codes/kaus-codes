@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which programming language was developed by Sun Microsystems in 1995?**
+**❓ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?**
 
 Choose your answer:
 
-**A.** Java
+**A.** Cherry MX Blue
 
-**B.** C++
+**B.** Cherry MX Brown
 
-**C.** Solaris OS
+**C.** Cherry MX Red
 
-**D.** Python
+**D.** Cherry MX Black
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Java**
+**Cherry MX Blue**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
