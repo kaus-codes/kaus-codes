@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?**
+**❓ In computing, what does MIDI stand for?**
 
 Choose your answer:
 
-**A.** Cherry MX Blue
+**A.** Musical Instrument Data Interface
 
-**B.** Cherry MX Brown
+**B.** Musical Interface of Digital Instruments
 
-**C.** Cherry MX Red
+**C.** Modular Interface of Digital Instruments
 
-**D.** Cherry MX Black
+**D.** Musical Instrument Digital Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Cherry MX Blue**
+### ✅ Correct Answer: **D**
+**Musical Instrument Digital Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
