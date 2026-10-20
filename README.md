@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In computing, what does MIDI stand for?**
+**❓ In the programming language "Python", which of these statements would display the string "Hello World" correctly?**
 
 Choose your answer:
 
-**A.** Musical Instrument Data Interface
+**A.** console.log("Hello World")
 
-**B.** Musical Interface of Digital Instruments
+**B.** printf("Hello World")
 
-**C.** Modular Interface of Digital Instruments
+**C.** print("Hello World")
 
-**D.** Musical Instrument Digital Interface
+**D.** echo "Hello World"
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Musical Instrument Digital Interface**
+### ✅ Correct Answer: **C**
+**print("Hello World")**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
