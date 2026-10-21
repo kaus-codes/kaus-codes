@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In the programming language "Python", which of these statements would display the string "Hello World" correctly?**
+**❓ What does the 'S' in the RSA encryption algorithm stand for?**
 
 Choose your answer:
 
-**A.** console.log("Hello World")
+**A.** Schottky
 
-**B.** printf("Hello World")
+**B.** Secure
 
-**C.** print("Hello World")
+**C.** Stable
 
-**D.** echo "Hello World"
+**D.** Shamir
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**print("Hello World")**
+### ✅ Correct Answer: **D**
+**Shamir**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
