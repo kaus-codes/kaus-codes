@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the 'S' in the RSA encryption algorithm stand for?**
+**❓ What is the name of the default theme that is installed with Windows XP?**
 
 Choose your answer:
 
-**A.** Schottky
+**A.** Luna
 
-**B.** Secure
+**B.** Neptune
 
-**C.** Stable
+**C.** Bliss
 
-**D.** Shamir
+**D.** Whistler
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Shamir**
+### ✅ Correct Answer: **A**
+**Luna**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
