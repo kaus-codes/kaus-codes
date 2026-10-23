@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the name of the default theme that is installed with Windows XP?**
+**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
 
 Choose your answer:
 
-**A.** Luna
+**A.** Computer-made operating system
 
-**B.** Neptune
+**B.** Computer-made oscillating static
 
-**C.** Bliss
+**C.** Complementary metal–oxide–semiconductor
 
-**D.** Whistler
+**D.** Complementary magnetic-ohms-semiconductor
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Luna**
+### ✅ Correct Answer: **C**
+**Complementary metal–oxide–semiconductor**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
