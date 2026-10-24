@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
+**❓ What does the term GPU stand for?**
 
 Choose your answer:
 
-**A.** Computer-made operating system
+**A.** Graphical Proprietary Unit
 
-**B.** Computer-made oscillating static
+**B.** Graphite Producing Unit
 
-**C.** Complementary metal–oxide–semiconductor
+**C.** Gaming Processor Unit
 
-**D.** Complementary magnetic-ohms-semiconductor
+**D.** Graphics Processing Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Complementary metal–oxide–semiconductor**
+### ✅ Correct Answer: **D**
+**Graphics Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
