@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the term GPU stand for?**
+**❓ What port does HTTP run on?**
 
 Choose your answer:
 
-**A.** Graphical Proprietary Unit
+**A.** 80
 
-**B.** Graphite Producing Unit
+**B.** 443
 
-**C.** Gaming Processor Unit
+**C.** 23
 
-**D.** Graphics Processing Unit
+**D.** 53
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Graphics Processing Unit**
+### ✅ Correct Answer: **A**
+**80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
