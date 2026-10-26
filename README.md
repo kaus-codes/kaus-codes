@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What port does HTTP run on?**
+**❓ .at is the top-level domain for what country?**
 
 Choose your answer:
 
-**A.** 80
+**A.** Australia
 
-**B.** 443
+**B.** Angola
 
-**C.** 23
+**C.** Austria
 
-**D.** 53
+**D.** Argentina
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**80**
+### ✅ Correct Answer: **C**
+**Austria**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
