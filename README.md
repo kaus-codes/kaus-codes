@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ .at is the top-level domain for what country?**
+**❓ Who invented the "Spanning Tree Protocol"?**
 
 Choose your answer:
 
-**A.** Australia
+**A.** Radia Perlman
 
-**B.** Angola
+**B.** Michael Roberts
 
-**C.** Austria
+**C.** Vint Cerf
 
-**D.** Argentina
+**D.** Paul Vixie
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Austria**
+### ✅ Correct Answer: **A**
+**Radia Perlman**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
