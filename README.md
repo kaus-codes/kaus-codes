@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Who invented the "Spanning Tree Protocol"?**
+**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
 
 Choose your answer:
 
-**A.** Radia Perlman
+**A.** Red
 
-**B.** Michael Roberts
+**B.** Blue
 
-**C.** Vint Cerf
+**C.** Green
 
-**D.** Paul Vixie
+**D.** Yellow
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Radia Perlman**
+### ✅ Correct Answer: **C**
+**Green**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
