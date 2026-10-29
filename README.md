@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
+**❓ What is known as "the brain" of the Computer?**
 
 Choose your answer:
 
-**A.** Red
+**A.** Graphics Processing Unit
 
-**B.** Blue
+**B.** Central Processing Unit
 
-**C.** Green
+**C.** Keyboard
 
-**D.** Yellow
+**D.** Motherboard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Green**
+### ✅ Correct Answer: **B**
+**Central Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
