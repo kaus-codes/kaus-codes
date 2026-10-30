@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is known as "the brain" of the Computer?**
+**❓ How many Hz does the video standard PAL support?**
 
 Choose your answer:
 
-**A.** Graphics Processing Unit
+**A.** 59
 
-**B.** Central Processing Unit
+**B.** 50
 
-**C.** Keyboard
+**C.** 25
 
-**D.** Motherboard
+**D.** 60
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Central Processing Unit**
+**50**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
