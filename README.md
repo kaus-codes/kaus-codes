@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ How many Hz does the video standard PAL support?**
+**❓ What does the acronym CDN stand for in terms of networking?**
 
 Choose your answer:
 
-**A.** 59
+**A.** Compressed Data Network
 
-**B.** 50
+**B.** Computational Data Network
 
-**C.** 25
+**C.** Content Delivery Network
 
-**D.** 60
+**D.** Content Distribution Network
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**50**
+### ✅ Correct Answer: **C**
+**Content Delivery Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
