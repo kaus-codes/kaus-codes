@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the acronym CDN stand for in terms of networking?**
+**❓ The C programming language was created by this American computer scientist. **
 
 Choose your answer:
 
-**A.** Compressed Data Network
+**A.** al-Khwārizmī
 
-**B.** Computational Data Network
+**B.** Dennis Ritchie
 
-**C.** Content Delivery Network
+**C.** Tim Berners Lee
 
-**D.** Content Distribution Network
+**D.** Willis Ware
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Content Delivery Network**
+### ✅ Correct Answer: **B**
+**Dennis Ritchie**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
