@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The C programming language was created by this American computer scientist. **
+**❓ Which programming language shares its name with an island in Indonesia?**
 
 Choose your answer:
 
-**A.** al-Khwārizmī
+**A.** Python
 
-**B.** Dennis Ritchie
+**B.** Jakarta
 
-**C.** Tim Berners Lee
+**C.** Java
 
-**D.** Willis Ware
+**D.** C
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Dennis Ritchie**
+### ✅ Correct Answer: **C**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
