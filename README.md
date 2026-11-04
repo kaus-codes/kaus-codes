@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What was the first commerically available computer processor?**
+**❓ On Twitter, what was the original character limit for a Tweet?**
 
 Choose your answer:
 
-**A.** Intel 4004
+**A.** 160
 
-**B.** TMS 1000
+**B.** 120
 
-**C.** AMD AM386
+**C.** 140
 
-**D.** Intel 486SX
+**D.** 100
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Intel 4004**
+### ✅ Correct Answer: **C**
+**140**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
