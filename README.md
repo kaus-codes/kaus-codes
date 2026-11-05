@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ On Twitter, what was the original character limit for a Tweet?**
+**❓ When did the online streaming service "Mixer" launch?**
 
 Choose your answer:
 
-**A.** 160
+**A.** 2013
 
-**B.** 120
+**B.** 2009
 
-**C.** 140
+**C.** 2011
 
-**D.** 100
+**D.** 2016
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**140**
+### ✅ Correct Answer: **D**
+**2016**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
