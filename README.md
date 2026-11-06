@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ When did the online streaming service "Mixer" launch?**
+**❓ Which of these people was NOT a founder of Apple Inc?**
 
 Choose your answer:
 
-**A.** 2013
+**A.** Jonathan Ive
 
-**B.** 2009
+**B.** Steve Wozniak
 
-**C.** 2011
+**C.** Ronald Wayne
 
-**D.** 2016
+**D.** Steve Jobs
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**2016**
+### ✅ Correct Answer: **A**
+**Jonathan Ive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
