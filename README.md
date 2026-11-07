@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these people was NOT a founder of Apple Inc?**
+**❓ In the server hosting industry IaaS stands for...**
 
 Choose your answer:
 
-**A.** Jonathan Ive
+**A.** Internet and a Server
 
-**B.** Steve Wozniak
+**B.** Internet as a Service
 
-**C.** Ronald Wayne
+**C.** Infrastructure as a Server
 
-**D.** Steve Jobs
+**D.** Infrastructure as a Service
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Jonathan Ive**
+### ✅ Correct Answer: **D**
+**Infrastructure as a Service**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
