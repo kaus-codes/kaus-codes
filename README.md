@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In the server hosting industry IaaS stands for...**
+**❓ In web design, what does CSS stand for?**
 
 Choose your answer:
 
-**A.** Internet and a Server
+**A.** Corrective Style Sheet
 
-**B.** Internet as a Service
+**B.** Counter Strike: Source
 
-**C.** Infrastructure as a Server
+**C.** Computer Style Sheet
 
-**D.** Infrastructure as a Service
+**D.** Cascading Style Sheet
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Infrastructure as a Service**
+**Cascading Style Sheet**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
