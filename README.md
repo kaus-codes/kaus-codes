@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In web design, what does CSS stand for?**
+**❓ What does the DOS in Microsoft's first operating system "MS-DOS" stand for?**
 
 Choose your answer:
 
-**A.** Corrective Style Sheet
+**A.** Driver Oriented System
 
-**B.** Counter Strike: Source
+**B.** Diskless Operating System
 
-**C.** Computer Style Sheet
+**C.** Dumb Operating System
 
-**D.** Cascading Style Sheet
+**D.** Disk Operating System
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Cascading Style Sheet**
+**Disk Operating System**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
