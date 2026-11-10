@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the DOS in Microsoft's first operating system "MS-DOS" stand for?**
+**❓ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?**
 
 Choose your answer:
 
-**A.** Driver Oriented System
+**A.** Cherry MX Red
 
-**B.** Diskless Operating System
+**B.** Cherry MX Black
 
-**C.** Dumb Operating System
+**C.** Cherry MX Brown
 
-**D.** Disk Operating System
+**D.** Cherry MX Blue
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Disk Operating System**
+**Cherry MX Blue**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
