@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?**
+**❓ What is the domain name for the country Tuvalu?**
 
 Choose your answer:
 
-**A.** Cherry MX Red
+**A.** .tt
 
-**B.** Cherry MX Black
+**B.** .tu
 
-**C.** Cherry MX Brown
+**C.** .tl
 
-**D.** Cherry MX Blue
+**D.** .tv
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Cherry MX Blue**
+**.tv**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
