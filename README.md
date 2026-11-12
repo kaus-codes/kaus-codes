@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the domain name for the country Tuvalu?**
+**❓ What is the code name for the mobile operating system Android 7.0?**
 
 Choose your answer:
 
-**A.** .tt
+**A.** Marshmallow
 
-**B.** .tu
+**B.** Jelly Bean
 
-**C.** .tl
+**C.** Ice Cream Sandwich
 
-**D.** .tv
+**D.** Nougat
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**.tv**
+**Nougat**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
