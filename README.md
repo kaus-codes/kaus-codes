@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the code name for the mobile operating system Android 7.0?**
+**❓ What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?**
 
 Choose your answer:
 
-**A.** Marshmallow
+**A.** Sandy Bridge
 
-**B.** Jelly Bean
+**B.** Coffee Lake
 
-**C.** Ice Cream Sandwich
+**C.** Skylake
 
-**D.** Nougat
+**D.** Broadwell
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Nougat**
+### ✅ Correct Answer: **B**
+**Coffee Lake**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
