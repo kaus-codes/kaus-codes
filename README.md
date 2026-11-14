@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?**
+**❓ What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?**
 
 Choose your answer:
 
-**A.** Sandy Bridge
+**A.** Alt + C
 
-**B.** Coffee Lake
+**B.** Ctrl + X
 
-**C.** Skylake
+**C.** Ctrl + C
 
-**D.** Broadwell
+**D.** Alt + X
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Coffee Lake**
+### ✅ Correct Answer: **C**
+**Ctrl + C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
