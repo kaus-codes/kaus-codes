@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?**
+**❓ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?**
 
 Choose your answer:
 
-**A.** Alt + C
+**A.** Cherry MX Black
 
-**B.** Ctrl + X
+**B.** Cherry MX Brown
 
-**C.** Ctrl + C
+**C.** Cherry MX Red
 
-**D.** Alt + X
+**D.** Cherry MX Blue
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Ctrl + C**
+### ✅ Correct Answer: **D**
+**Cherry MX Blue**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
