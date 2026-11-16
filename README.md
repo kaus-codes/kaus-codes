@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which of these Cherry MX mechanical keyboard switches is both tactile and clicky?**
+**❓ Generally, which component of a computer draws the most power?**
 
 Choose your answer:
 
-**A.** Cherry MX Black
+**A.** Video Card
 
-**B.** Cherry MX Brown
+**B.** Hard Drive
 
-**C.** Cherry MX Red
+**C.** Power Supply
 
-**D.** Cherry MX Blue
+**D.** Processor
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Cherry MX Blue**
+### ✅ Correct Answer: **A**
+**Video Card**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
