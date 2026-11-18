@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In the server hosting industry IaaS stands for...**
+**❓ Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?**
 
 Choose your answer:
 
-**A.** Internet and a Server
+**A.** Tiger
 
-**B.** Infrastructure as a Service
+**B.** Leopard
 
-**C.** Internet as a Service
+**C.** Cheetah
 
-**D.** Infrastructure as a Server
+**D.** Puma
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Infrastructure as a Service**
+### ✅ Correct Answer: **C**
+**Cheetah**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
