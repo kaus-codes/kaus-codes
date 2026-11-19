@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?**
+**❓ In computing, how many bits are in a nibble?**
 
 Choose your answer:
 
-**A.** Tiger
+**A.** 4
 
-**B.** Leopard
+**B.** 32
 
-**C.** Cheetah
+**C.** 16
 
-**D.** Puma
+**D.** 2
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Cheetah**
+### ✅ Correct Answer: **A**
+**4**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
