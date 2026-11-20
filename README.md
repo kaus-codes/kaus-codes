@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In computing, how many bits are in a nibble?**
+**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
 
 Choose your answer:
 
-**A.** 4
+**A.** Heat Sink
 
-**B.** 32
+**B.** CPU Vent
 
-**C.** 16
+**C.** Temperature Decipator
 
-**D.** 2
+**D.** Heat Vent
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**4**
+**Heat Sink**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
