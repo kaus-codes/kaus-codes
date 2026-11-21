@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
+**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
 
 Choose your answer:
 
-**A.** Heat Sink
+**A.** Stream cipher
 
-**B.** CPU Vent
+**B.** Asymmetric encryption
 
-**C.** Temperature Decipator
+**C.** Hashing algorithm
 
-**D.** Heat Vent
+**D.** Secret sharing scheme
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Heat Sink**
+### ✅ Correct Answer: **D**
+**Secret sharing scheme**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
