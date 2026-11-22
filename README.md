@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
+**❓ What five letter word is the motto of the IBM Computer company?**
 
 Choose your answer:
 
-**A.** Stream cipher
+**A.** Logic
 
-**B.** Asymmetric encryption
+**B.** Pixel
 
-**C.** Hashing algorithm
+**C.** Click
 
-**D.** Secret sharing scheme
+**D.** Think
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Secret sharing scheme**
+**Think**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
