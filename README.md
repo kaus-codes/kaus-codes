@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What five letter word is the motto of the IBM Computer company?**
+**❓ What does the International System of Quantities refer 1024 bytes as?**
 
 Choose your answer:
 
-**A.** Logic
+**A.** Kelobyte
 
-**B.** Pixel
+**B.** Kibibyte
 
-**C.** Click
+**C.** Kilobyte
 
-**D.** Think
+**D.** Kylobyte
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Think**
+### ✅ Correct Answer: **B**
+**Kibibyte**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
