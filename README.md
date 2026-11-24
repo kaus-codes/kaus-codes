@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does the International System of Quantities refer 1024 bytes as?**
+**❓ The C programming language was created by this American computer scientist. **
 
 Choose your answer:
 
-**A.** Kelobyte
+**A.** Dennis Ritchie
 
-**B.** Kibibyte
+**B.** Tim Berners Lee
 
-**C.** Kilobyte
+**C.** al-Khwārizmī
 
-**D.** Kylobyte
+**D.** Willis Ware
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Kibibyte**
+### ✅ Correct Answer: **A**
+**Dennis Ritchie**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
