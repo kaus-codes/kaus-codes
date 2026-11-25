@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ The C programming language was created by this American computer scientist. **
+**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
 
 Choose your answer:
 
-**A.** Dennis Ritchie
+**A.** Blue
 
-**B.** Tim Berners Lee
+**B.** Green
 
-**C.** al-Khwārizmī
+**C.** Yellow
 
-**D.** Willis Ware
+**D.** Red
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Dennis Ritchie**
+### ✅ Correct Answer: **B**
+**Green**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
