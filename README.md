@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
+**❓ What does CPU stand for?**
 
 Choose your answer:
 
-**A.** Blue
+**A.** Computer Personal Unit
 
-**B.** Green
+**B.** Central Process Unit
 
-**C.** Yellow
+**C.** Central Processor Unit
 
-**D.** Red
+**D.** Central Processing Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Green**
+### ✅ Correct Answer: **D**
+**Central Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
