@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ What does CPU stand for?**
+**❓ Approximately how many Apple I personal computers were created?**
 
 Choose your answer:
 
-**A.** Computer Personal Unit
+**A.** 100
 
-**B.** Central Process Unit
+**B.** 500
 
-**C.** Central Processor Unit
+**C.** 200
 
-**D.** Central Processing Unit
+**D.** 1000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Central Processing Unit**
+### ✅ Correct Answer: **C**
+**200**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
