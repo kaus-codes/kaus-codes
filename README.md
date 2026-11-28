@@ -205,23 +205,23 @@ Answer it before revealing the solution!
 
 ## ☕ Fuel the Coders
 
-**❓ Approximately how many Apple I personal computers were created?**
+**❓ What does the 'S' in the RSA encryption algorithm stand for?**
 
 Choose your answer:
 
-**A.** 100
+**A.** Secure
 
-**B.** 500
+**B.** Shamir
 
-**C.** 200
+**C.** Stable
 
-**D.** 1000
+**D.** Schottky
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**200**
+### ✅ Correct Answer: **B**
+**Shamir**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
